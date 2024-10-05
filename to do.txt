@@ -1,0 +1,5 @@
+to do:
+
+fix section navigation in latte.html
+americano.html
+mocha.html
